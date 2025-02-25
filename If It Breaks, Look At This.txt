@@ -1,0 +1,1 @@
+I attempted to transfer the Unreal files into a sub folder because I wanted multiple projects within my Unreal GitHub depot for Coding1, if it breaks, just change that
